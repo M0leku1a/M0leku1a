@@ -33,7 +33,7 @@ My academic interests include algorithms, mathematical logic and modeling, infor
 
 ### VibePad
 
-<img src="assets/vibepad-1.3-showcase.jpg" alt="VibePad 1.3 interface with customizable sound pads" width="100%" />
+<img src="assets/vibepad-1.3-showcase.jpg?v=2" alt="VibePad 1.3 interface with customizable sound pads" width="100%" />
 
 A Windows desktop application built with JavaScript and Electron for playing and managing sounds through customizable pads. It supports pages and zones, hotkeys, project saving and loading, ZIP import and export, and visual customization with background images.
 
@@ -72,7 +72,7 @@ A personal project focused on generating content for tabletop role-playing games
 
 ### VibePad
 
-<img src="assets/vibepad-1.3-showcase.jpg" alt="Интерфейс VibePad 1.3 с настраиваемыми звуковыми пэдами" width="100%" />
+<img src="assets/vibepad-1.3-showcase.jpg?v=2" alt="Интерфейс VibePad 1.3 с настраиваемыми звуковыми пэдами" width="100%" />
 
 Настольное приложение для Windows на JavaScript и Electron, предназначенное для воспроизведения и управления звуками через настраиваемые пэды. Поддерживает страницы и зоны, горячие клавиши, сохранение и загрузку проектов, импорт и экспорт ZIP-архивов, а также визуальную настройку и фоновые изображения.
 
