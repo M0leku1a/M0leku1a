@@ -29,7 +29,7 @@ My academic interests include algorithms, mathematical logic and modeling, infor
 - Software architecture and intelligent systems
 - AI integration into desktop and interactive applications
 
-## Selected Projects
+## My Projects
 
 ### VibePad
 
@@ -70,7 +70,7 @@ A personal project focused on generating content for tabletop role-playing games
 - Архитектуру программ и интеллектуальные системы
 - Интеграцию ИИ в настольные и интерактивные приложения
 
-## Избранные проекты
+## Мои проекты
 
 ### VibePad
 
