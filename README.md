@@ -41,6 +41,8 @@ A Windows desktop application built with JavaScript and Electron for playing and
 
 ### DemForge
 
+<img src="assets/demforge-npc-generator.png" alt="DemForge NPC generator interface" width="100%" />
+
 A personal project focused on generating content for tabletop role-playing games and interactive scenarios. Its development explores procedural generation, connected generators, contextual content creation, and the potential of local LLMs for producing more coherent results.
 
 **Purpose:** to experiment with systems that help create descriptions, events, and world elements. Local LLM integration remains an area of research rather than a completed feature.
@@ -79,6 +81,8 @@ A personal project focused on generating content for tabletop role-playing games
 **Назначение:** создать гибкое рабочее пространство для организации и запуска аудио в творческих и интерактивных задачах.
 
 ### DemForge
+
+<img src="assets/demforge-npc-generator.png" alt="Интерфейс генератора NPC в DemForge" width="100%" />
 
 Личный проект для генерации контента настольных ролевых игр и интерактивных сценариев. В проекте исследуются процедурная генерация, взаимодействие разных генераторов, использование контекста и возможности локальных LLM для получения более связного контента.
 
